@@ -1,5 +1,7 @@
 This is a simple CRUD operations on Couchbase via NestJS
 
+<img width="1429" alt="Screen Shot 2022-11-21 at 02 04 21" src="https://user-images.githubusercontent.com/45769212/202931415-77b75a08-ed37-497d-aa9e-67427f8feced.png">
+
 ## Installation
 
 You need to initialize couchbase user:Administrator pass:asdasd123
