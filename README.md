@@ -16,6 +16,7 @@ $ https://docs.couchbase.com/server/current/manage/manage-nodes/create-cluster.h
 
 
 ```bash
+# clone the project and run
 $ npm install
 ```
 
