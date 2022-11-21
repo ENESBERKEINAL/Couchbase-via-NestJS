@@ -8,7 +8,8 @@ You need to initialize couchbase user:Administrator pass:asdasd123
 And then create Bucket name -> main-bucket
 
 ```bash
- https://docs.couchbase.com/server/current/install/install-intro.html
+# How to initialize couchbase steps
+$ https://docs.couchbase.com/server/current/install/install-intro.html
 $ https://docs.couchbase.com/server/current/getting-started/do-a-quick-install.html
 $ https://docs.couchbase.com/server/current/manage/manage-nodes/create-cluster.html
 ```
